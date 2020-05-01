@@ -1,5 +1,5 @@
 # Covid-19-Power-BI
-Built a dashboard to analyze the current outbreak. Updated as of April 30th!!
+Built a dashboard to analyze the current outbreak. 
 
 Option 1: If you an active Microsoft account logged in, you can easily view the report by clicking on this link here.
 
