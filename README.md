@@ -9,5 +9,9 @@ Option 2: Preview of the Dashboard and other files included incase you don't hav
 
 
 ***Snapshot of the Dashboard!***
+
+
+
+
 ![Dashboard Image](https://user-images.githubusercontent.com/37052030/80730567-bbb4a000-8ad7-11ea-9484-b82e64891b1b.png)
 
