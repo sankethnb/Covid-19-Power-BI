@@ -1,5 +1,7 @@
 # Covid-19-Power-BI
-Built a dashboard to analyze the current outbreak. _Data wrangling code can be provided on request._ 
+Built a dashboard to analyze the current outbreak. Data used here is from the John Hopkins [Github](https://github.com/CSSEGISandData/COVID-19) reporsitory. 
+
+__Data wrangling code can be provided on request.__ 
 
 ___To view the dashboard, you have two options:___ 
 
