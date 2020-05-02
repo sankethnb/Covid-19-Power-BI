@@ -1,5 +1,7 @@
 # Covid-19-Power-BI
-Built a dashboard to analyze the current outbreak. 
+Built a dashboard to analyze the current outbreak. _Data wrangling code can be provided on request._ 
+
+___To view the dashboard, you have two options:___ 
 
 Option 1: If you an active Microsoft account logged in, you can easily view the report by clicking on this link here.
 
